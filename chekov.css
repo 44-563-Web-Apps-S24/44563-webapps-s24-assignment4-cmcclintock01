@@ -5,3 +5,4 @@
 .direction:hover {background-color: beige; color:darkblue}
 .ivanoff {color:blue}
 .borkin {color:red}
+table, th {border: solid 5px rgb(196, 170, 66); border-collapse: collapse; text-align: center; margin: 50px 250px; padding: 5px 25px}
